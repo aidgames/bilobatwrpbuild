@@ -22,7 +22,7 @@ env:
   device: begonia
   DT_url: https://github.com/itsnotmakar/rn82021twrp
   DT_path: device/xiaomi/biloba
-  ProductFileHeader: twrp
+  ProductFileHeader: omni
   target: recoveryimage
   WorkSpace: WorkSpace
   TZ: Asia/Shanghai
