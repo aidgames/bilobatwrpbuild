@@ -28,7 +28,7 @@ env:
   TZ: Asia/Shanghai
   Author: ${{github.actor}}
   Delete_old: false
-  recName: super idol
+  rec_name: super idol
 
 jobs:
   build:
