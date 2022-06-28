@@ -19,7 +19,7 @@ env:
   Rec_name: TWRP
   Rec_ver: 3.6.0
   Rec_url: https://github.com/RC1844/platform_manifest_twrp_omni.git -b twrp-11.0
-  device: begonia
+  device: biloba
   DT_url: https://github.com/itsnotmakar/rn82021twrp
   DT_path: device/xiaomi/biloba
   ProductFileHeader: omni
@@ -28,6 +28,7 @@ env:
   TZ: Asia/Shanghai
   Author: ${{github.actor}}
   Delete_old: false
+  recName: super idol
 
 jobs:
   build:
